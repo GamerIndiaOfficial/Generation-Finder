@@ -21,6 +21,6 @@ elif yourage >= 2012 and yourage <= 2023:
 else:
   print("No information") #Currently no information 
 print("----------")
-print("Well, This program is created by @Adrit69 on github and @Arpan646 on github.")
+print("Well, This program is created by @GamerIndiaOfficial on GitHub.")
 input("") #The line 25 and 26 is madded so that the code will not immediately end.
 exit(0) #Don't touch line 25 and 26
